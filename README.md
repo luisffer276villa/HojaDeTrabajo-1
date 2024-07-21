@@ -7,7 +7,7 @@ Este es un proyecto hecho en lenguaje de marcado HTML con la finalidad de practi
 
 ## Enlace del sitio web publicado
 
-[LINK](URL_DEL_SITIO_WEB)
+[[LINK](URL_DEL_SITIO_WEB)](https://hojadetrabajo1lv.netlify.app/)
 
 ## Nombre de Estudiante
 
