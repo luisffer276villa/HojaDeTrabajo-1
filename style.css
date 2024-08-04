@@ -1,0 +1,96 @@
+/* Estilos para el navegador */
+#navegador {
+  background-color: #2c3e50;
+  color: white;
+  padding: 10px;
+}
+
+.menu-principal .contenedor {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.titulo_nav .txt_titulo {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.opciones a {
+  color: white;
+  margin: 0 15px;
+  text-decoration: none;
+}
+
+.opciones a:hover {
+  text-decoration: underline;
+}
+
+/* Estilos para el cuerpo */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h3 {
+  color: #2980b9;
+}
+
+h4 {
+  font-style: italic;
+}
+
+section {
+  padding: 20px;
+}
+
+hr {
+  border: 1px solid #ccc;
+}
+
+/* Estilos para la galería */
+#GALERIA table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+#GALERIA table td {
+  padding: 10px;
+  text-align: center;
+}
+
+/* Estilos para la tabla de itinerario */
+#ITINERARIO table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+#ITINERARIO table th, #ITINERARIO table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+#ITINERARIO table th {
+  background-color: #f2f2f2;
+}
+
+/* Estilos para la lista de actividades */
+#ACTIVIDADES u {
+  list-style-type: none;
+  padding: 0;
+}
+
+#ACTIVIDADES li {
+  margin: 10px 0;
+}
+
+/* Estilos para el pie de página */
+footer {
+  background-color: #2c3e50;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+}
